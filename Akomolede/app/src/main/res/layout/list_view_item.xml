@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    android:background="@color/tan_background"
+    android:minHeight="@dimen/list_item_height">
+
+
+
+    <RelativeLayout
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true">
+
+
+        <TextView
+            android:id="@+id/miwok_test_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:textColor="@color/background_color"
+            android:textStyle="bold"
+            tools:text="lutti">
+
+        </TextView>
+
+
+        <TextView
+            android:id="@+id/defaul_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/miwok_test_view"
+            android:fontFamily="serif"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:textColor="@color/white"
+            tools:text="one">
+
+        </TextView>
+
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/image_icon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"></ImageView>
+
+</RelativeLayout>

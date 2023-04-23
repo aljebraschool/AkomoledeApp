@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="aljebraschool.example.akomolede"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <dist:module dist:instant="true" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Akomolede"
+        tools:targetApi="31">
+
+        <activity
+            android:name="aljebraschool.example.akomolede.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity android:name="aljebraschool.example.akomolede.MainActivity" />
+
+<!--        list of activities implemented in the app   -->
+
+        <activity
+            android:name="aljebraschool.example.akomolede.AlifabetiYoruba"
+            android:exported="false"
+            android:label="@string/alfabeti"
+            android:parentActivityName="aljebraschool.example.akomolede.MainActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.AlifabeNlaAtiKekereActivity"
+            android:exported="false"
+            android:label="@string/kekere_nla_alphabet"
+            android:parentActivityName="aljebraschool.example.akomolede.AlifabetiYoruba" />
+        <activity
+            android:name="aljebraschool.example.akomolede.faweliActivity"
+            android:exported="false"
+            android:label="@string/faweli"
+            android:parentActivityName="aljebraschool.example.akomolede.AlifabetiYoruba" />
+        <activity
+            android:name="aljebraschool.example.akomolede.KonsonantActivity"
+            android:exported="false"
+            android:label="@string/kosonanti"
+            android:parentActivityName="aljebraschool.example.akomolede.AlifabetiYoruba" />
+        <activity
+            android:name="aljebraschool.example.akomolede.AsopoConsonantiAtiFaweliActivity"
+            android:exported="false"
+            android:label="@string/asopo_kosonanti_faweli"
+            android:parentActivityName="aljebraschool.example.akomolede.AlifabetiYoruba" />
+        <activity
+            android:name="aljebraschool.example.akomolede.AmiOhunActivity"
+            android:exported="false"
+            android:label="@string/ami_ohum"
+            android:parentActivityName="aljebraschool.example.akomolede.MainActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.OrikiAmiActivity"
+            android:exported="false"
+            android:label="@string/oriki_ami"
+            android:parentActivityName="aljebraschool.example.akomolede.AmiOhunActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.OrisiiAmiOhunActivity"
+            android:exported="false"
+            android:label="@string/iran_ami"
+            android:parentActivityName="aljebraschool.example.akomolede.AmiOhunActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.AkiyesiLoriAmiActivity"
+            android:exported="false"
+            android:label="@string/akiye_lori_ami"
+            android:parentActivityName="aljebraschool.example.akomolede.AmiOhunActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.ApeereAmiActivity"
+            android:exported="false"
+            android:label="@string/apeere_lilo_ami"
+            android:parentActivityName="aljebraschool.example.akomolede.AmiOhunActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.IseIfikoraAmiActivity"
+            android:exported="false"
+            android:label="@string/ise_ifikora"
+            android:parentActivityName="aljebraschool.example.akomolede.AmiOhunActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.SisoOroPoActivity"
+            android:exported="false"
+            android:label="@string/siso_oro"
+            android:parentActivityName="aljebraschool.example.akomolede.MainActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.OrikiSisoOroPoActivity"
+            android:exported="false"
+            android:label="@string/oriki_siso_oro"
+            android:parentActivityName="aljebraschool.example.akomolede.SisoOroPoActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.ApeereSisoOroPoActivity"
+            android:exported="false"
+            android:label="@string/apeere_siso_oro"
+            android:parentActivityName="aljebraschool.example.akomolede.SisoOroPoActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.IseIfikoraSisoOroPoActivity"
+            android:exported="false"
+            android:label="@string/ise_ifikora"
+            android:parentActivityName="aljebraschool.example.akomolede.SisoOroPoActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.IkiniActivity"
+            android:exported="false"
+            android:label="@string/ikini"
+            android:parentActivityName="aljebraschool.example.akomolede.MainActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.OrikiIkiniActivity"
+            android:exported="false"
+            android:label="@string/oriki_ikini"
+            android:parentActivityName="aljebraschool.example.akomolede.IkiniActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.AsikoAtiIkiniActivity"
+            android:exported="false"
+            android:label="@string/asiko_ikini"
+            android:parentActivityName="aljebraschool.example.akomolede.IkiniActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.AkiyesiLoriIkiniActivity"
+            android:exported="false"
+            android:label="@string/akiyesi_lori_ikini"
+            android:parentActivityName="aljebraschool.example.akomolede.IkiniActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.IseIfikoraIkiniActivity"
+            android:exported="false"
+            android:label="@string/ise_ifikora"
+            android:parentActivityName="aljebraschool.example.akomolede.IkiniActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.OroIseActivity"
+            android:exported="false"
+            android:label="@string/oro_ise"
+            android:parentActivityName="aljebraschool.example.akomolede.MainActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.OrikiOroIseActivity"
+            android:exported="false"
+            android:label="@string/oriki_oro_ise"
+            android:parentActivityName="aljebraschool.example.akomolede.OroIseActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.ApeereOroIseActivity"
+            android:exported="false"
+            android:label="@string/apeere_oro_ise"
+            android:parentActivityName="aljebraschool.example.akomolede.OroIseActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.IseIfikoraOroIseActivity"
+            android:exported="false"
+            android:label="@string/ise_ifikora"
+            android:parentActivityName="aljebraschool.example.akomolede.OroIseActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.OroOrukoActivity"
+            android:exported="false"
+            android:label="@string/oro_oruko"
+            android:parentActivityName="aljebraschool.example.akomolede.MainActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.OrikiOroOrukoActivity"
+            android:exported="false"
+            android:label="@string/oriki_oro_oruko"
+            android:parentActivityName="aljebraschool.example.akomolede.OroOrukoActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.ApeereOroOrukoActivity"
+            android:exported="false"
+            android:label="@string/apeere_oro_oruko"
+            android:parentActivityName="aljebraschool.example.akomolede.OroOrukoActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.IseIfikoraOroOrukoActivity"
+            android:exported="false"
+            android:label="@string/ise_ifikora"
+            android:parentActivityName="aljebraschool.example.akomolede.OroOrukoActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.OroAropoOrukoActivity"
+            android:exported="false"
+            android:label="@string/oro_aropo_oruko"
+            android:parentActivityName="aljebraschool.example.akomolede.MainActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.OrikiOroAropoOrukoActivity"
+            android:exported="false"
+            android:label="@string/oriki_oro_aropo_oruko"
+            android:parentActivityName="aljebraschool.example.akomolede.OroAropoOrukoActivity" />
+        <activity
+            android:name="aljebraschool.example.akomolede.ApeereOroAropoOrukoActivity"
+            android:exported="false"
+            android:label="@string/apeere_oro_aropo_oruko"
+            android:parentActivityName="aljebraschool.example.akomolede.OroAropoOrukoActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.IsoriOroAropoOrukoActivity"
+            android:exported="false"
+            android:label="@string/isori_oro_aropo_oruko"
+            android:parentActivityName="aljebraschool.example.akomolede.ApeereOroAropoOrukoActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.ApeereLiloOroAropoOrukoNinuGbolohunActivity"
+            android:exported="false"
+            android:label="@string/apeere_lilo_ninu_gbolohun"
+            android:parentActivityName="aljebraschool.example.akomolede.ApeereOroAropoOrukoActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.IseIfikoraOroAropoOrukoActivity"
+            android:exported="false"
+            android:label="@string/ise_ifikora"
+            android:parentActivityName="aljebraschool.example.akomolede.OroAropoOrukoActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.OrikiOroAropoAfarajerukoActivity"
+            android:exported="false"
+            android:label="@string/oriki_oro_aropo_arajeruko"
+            android:parentActivityName="aljebraschool.example.akomolede.OroAropoAfarajerukoActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.OroAropoAfarajerukoActivity"
+            android:exported="false"
+            android:label="@string/oro_aropo_afarajoruko"
+            android:parentActivityName="aljebraschool.example.akomolede.MainActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.ApeereOroAropoAfarajerukoActivity"
+            android:exported="false"
+            android:label="@string/apeere_oro_aropo_afarajeruko"
+            android:parentActivityName="aljebraschool.example.akomolede.OroAropoAfarajerukoActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.IseIfikoraOroAropoAfarajorukoActivity"
+            android:exported="false"
+            android:label="@string/ise_ifikora"
+            android:parentActivityName="aljebraschool.example.akomolede.OroAropoAfarajerukoActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.OroAtiItumoActivity"
+            android:exported="false"
+            android:label="@string/atumo_oro"
+            android:parentActivityName="aljebraschool.example.akomolede.MainActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.ItumoOroActivity"
+            android:exported="false"
+            android:label="@string/itumo_oro"
+            android:parentActivityName="aljebraschool.example.akomolede.OroAtiItumoActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.GbolohunKukuruAtiItumoActivity"
+            android:exported="false"
+            android:label="@string/gbolohun_kukuru"
+            android:parentActivityName="aljebraschool.example.akomolede.OroAtiItumoActivity" />
+
+        <activity
+            android:name="aljebraschool.example.akomolede.IseIfikoraAtumoOroActivity"
+            android:exported="false"
+            android:label="@string/ise_ifikora"
+            android:parentActivityName="aljebraschool.example.akomolede.OroAtiItumoActivity" />
+
+
+    </application>
+
+</manifest>

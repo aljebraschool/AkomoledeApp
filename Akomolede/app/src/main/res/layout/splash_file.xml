@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/blue_background_4_color">
+
+
+  <TextView
+      android:id="@+id/e_kaabo"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:gravity="center"
+      android:fontFamily="sans-serif-smallcaps"
+      android:text="@string/e_kaabo"
+      android:textSize="30sp"
+      android:textStyle="bold"
+      android:textColor="@color/dark_blue_2_color">
+
+  </TextView>
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/e_kaabo"
+      android:textSize="25sp"
+      android:gravity="center_horizontal"
+      android:textStyle="italic"
+      android:fontFamily="sans-serif"
+      android:text="@string/welcome"
+      android:textColor="@color/black"
+
+      >
+
+
+  </TextView>
+
+</RelativeLayout>

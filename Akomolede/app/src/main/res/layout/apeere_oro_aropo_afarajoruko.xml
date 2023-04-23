@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true">
+
+    <LinearLayout
+        android:id="@+id/apeere_oro_aropo_afarajeruko"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:orientation="vertical">
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="@drawable/horizontal_line" />
+
+        <LinearLayout
+            android:id="@+id/layout_aropo_oruko_oluwa_eni"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:minHeight="60dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="serif"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_oluwa_eni"
+                android:textColor="@color/white"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_oluwa_eyo"
+                android:textColor="@color/background_color"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_oluwa_opo"
+                android:textColor="@color/background_color"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="@drawable/horizontal_line" />
+
+        <LinearLayout
+            android:id="@+id/layout_aropo_oruko_oluwa_eni_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:minHeight="60dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="serif"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_oluwa_eni_1"
+                android:textColor="@color/white"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_arajeruko_eyo_1"
+                android:textColor="@color/background_color"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_afarajeruko_opo_1"
+                android:textColor="@color/background_color"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="@drawable/horizontal_line" />
+
+        <LinearLayout
+            android:id="@+id/layout_aropo_oruko_oluwa_eni_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:minHeight="60dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="serif"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_oluwa_eni_2"
+                android:textColor="@color/white"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_arajeruko_eyo_2"
+                android:textColor="@color/background_color"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_afarajeruko_opo_2"
+                android:textColor="@color/background_color"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="@drawable/horizontal_line" />
+
+        <LinearLayout
+            android:id="@+id/layout_aropo_oruko_oluwa_eni_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:minHeight="60dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="serif"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_oluwa_eni_3"
+                android:textColor="@color/white"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_arajeruko_eyo_3"
+                android:textColor="@color/background_color"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:background="@color/dark_blue_1_color"
+                android:fontFamily="sans-serif-light"
+                android:gravity="center"
+                android:text="@string/apeere_oro_aropo_oruko_afarajeruko_opo_3"
+                android:textColor="@color/background_color"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="@drawable/horizontal_line" />
+
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:minHeight="60dp"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:id="@+id/apeere_lilo_oro_aropo_oruko_afarajoruko_ninu_gbolohun"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/apeere_lilo_oro_aropo_oruko_afarajoruko_ninu_gbolohun"
+            android:layout_height="wrap_content">
+
+
+        </TextView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="@drawable/horizontal_line" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:minHeight="60dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/apeere_lilo_oro_aropo_oruko_afarajoruko_1"
+            android:layout_height="wrap_content">
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:fontFamily="serif"
+                android:textStyle="bold"
+                android:background="@color/dark_blue_1_color"
+                android:textColor="@color/white"
+                android:text="@string/notice_one"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:background="@color/dark_blue_1_color"
+                android:layout_weight="2"
+                android:layout_marginStart="8dp"
+                android:fontFamily="sans-serif-light"
+                android:textStyle="bold"
+                android:textColor="@color/background_color"
+                android:text="@string/apeere_lilo_oro_aropo_oruko_afarajoruko_1"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="@drawable/horizontal_line" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:minHeight="60dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/apeere_lilo_oro_aropo_oruko_afarajoruko_2"
+            android:layout_height="wrap_content">
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:fontFamily="serif"
+                android:textStyle="bold"
+                android:background="@color/dark_blue_1_color"
+                android:textColor="@color/white"
+                android:text="@string/notice_two"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:background="@color/dark_blue_1_color"
+                android:layout_weight="2"
+                android:layout_marginStart="8dp"
+                android:fontFamily="sans-serif-light"
+                android:textStyle="bold"
+                android:textColor="@color/background_color"
+                android:text="@string/apeere_lilo_oro_aropo_oruko_afarajoruko_2"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:background="@drawable/horizontal_line" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:minHeight="60dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:id="@+id/apeere_lilo_oro_aropo_oruko_afarajoruko_3"
+            android:layout_height="wrap_content">
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:fontFamily="serif"
+                android:textStyle="bold"
+                android:background="@color/dark_blue_1_color"
+                android:textColor="@color/white"
+                android:text="@string/notice_three"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:background="@color/dark_blue_1_color"
+                android:layout_weight="2"
+                android:layout_marginStart="8dp"
+                android:fontFamily="sans-serif-light"
+                android:textStyle="bold"
+                android:textColor="@color/background_color"
+                android:text="@string/apeere_lilo_oro_aropo_oruko_afarajoruko_3"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</ScrollView>

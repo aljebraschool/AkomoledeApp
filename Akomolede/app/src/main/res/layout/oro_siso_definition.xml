@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/oro_siso_definition"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:background="@color/dark_blue_1_color">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:minHeight="300dp"
+        android:padding="16dp"
+        android:gravity="center_vertical"
+        android:background="@drawable/textview_outline"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/oro_siso_ohun"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/alaye_siso_oro"
+        android:textSize="30sp"
+        android:background="?android:attr/selectableItemBackground"
+        android:textStyle="bold"
+        android:padding="4dp"
+
+        android:textColor="@color/background_color"
+
+        >
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/word_formation1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/oro_siso_ohun"
+        android:textSize="25sp"
+        android:padding="4dp"
+        android:gravity="center_horizontal"
+        android:textStyle="italic"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/white"
+        android:background="?android:attr/selectableItemBackground"
+        android:text="@string/definition_of_word_formation">
+
+
+    </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/word_formation1"
+            android:textSize="25sp"
+            android:padding="4dp"
+            android:gravity="center_horizontal"
+            android:textStyle="italic"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/white"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/definition_of_word_formation2">
+
+
+        </TextView>
+    </LinearLayout>
+
+</RelativeLayout>
