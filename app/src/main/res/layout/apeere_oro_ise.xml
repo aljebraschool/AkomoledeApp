@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:id="@+id/apeere_oro_ise"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_one"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_one"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_1"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_two"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_two"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_2"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_three"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_three"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_3"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+        <LinearLayout
+            android:id="@+id/layout_apeere_four"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:minHeight="60dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:layout_height="wrap_content">
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:fontFamily="serif"
+                android:background="@color/dark_blue_1_color"
+                android:textColor="@color/white"
+                android:text="@string/notice_four"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:background="@color/dark_blue_1_color"
+                android:layout_weight="2"
+                android:layout_marginStart="8dp"
+                android:fontFamily="sans-serif-light"
+                android:textStyle="bold"
+                android:textColor="@color/background_color"
+                android:text="@string/apeere_oro_ise_4"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+            <LinearLayout
+                android:id="@+id/layout_apeere_five"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:minHeight="60dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:gravity="center"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:textStyle="bold"
+                    android:fontFamily="serif"
+                    android:background="@color/dark_blue_1_color"
+                    android:textColor="@color/white"
+                    android:text="@string/notice_five"
+                    android:layout_height="match_parent">
+
+
+                </TextView>
+
+                <TextView
+                    android:gravity="center"
+                    android:layout_width="0dp"
+                    android:background="@color/dark_blue_1_color"
+                    android:layout_weight="2"
+                    android:layout_marginStart="8dp"
+                    android:fontFamily="sans-serif-light"
+                    android:textStyle="bold"
+                    android:textColor="@color/background_color"
+                    android:text="@string/apeere_oro_ise_5"
+                    android:layout_height="match_parent">
+
+
+                </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_six"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_six"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_6"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_seven"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_seven"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_7"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_eight"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_eight"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_8"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_9"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_nine"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_9"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_10"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_ten"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_10"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_11"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_eleven"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_11"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_12"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_twelve"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_12"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_13"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_thirteen"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_13"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_14"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_14"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_14"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_15"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_15"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_15"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_16"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_16"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_16"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_17"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_17"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_17"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_18"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_18"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_18"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_19"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_19"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_19"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_20"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_20"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_20"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_21"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_21"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_21"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_22"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_22"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_22"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_23"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_23"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_23"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_24"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_24"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_24"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_25"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_25"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_25"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_26"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_26"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_26"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_27"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_27"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_ise_27"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:id="@+id/gbolohun_kukuru_ati_itumo"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:minHeight="60dp"
+        android:fontFamily="serif"
+        android:textStyle="bold"
+        android:id="@+id/layout_oro_ati_itumo"
+        android:background="@color/dark_blue_1_color"
+        android:textColor="@color/white"
+        android:text="@string/gbolohun_kukuru"
+        android:layout_height="wrap_content">
+
+
+    </TextView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_one"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_1"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_1"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_two"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_2"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_2"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_three"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_3"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_3"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+        <LinearLayout
+            android:id="@+id/layout_gbolohun_kukuru_ati_itumo_four"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:minHeight="60dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:layout_height="wrap_content">
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:fontFamily="serif"
+                android:background="@color/dark_blue_1_color"
+                android:textColor="@color/white"
+                android:text="@string/gbolohun_kukuru_4"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:background="@color/dark_blue_1_color"
+                android:layout_weight="1"
+                android:layout_marginStart="8dp"
+                android:fontFamily="sans-serif-light"
+                android:textStyle="bold"
+                android:textColor="@color/background_color"
+                android:text="@string/small_sentence_4"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_five"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_5"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_5"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_6"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_6"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_6"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_7"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_7"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_7"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_8"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_8"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_8"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_9"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_9"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_9"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_10"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_10"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_10"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_11"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_11"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_11"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_12"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_12"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_12"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_13"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_13"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_13"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_14"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_14"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_14"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_15"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_15"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_15"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_16"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_16"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_16"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_17"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_17"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_17"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_18"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_18"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_18"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_19"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_19"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_19"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_20"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_20"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_20"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_21"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_21"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_21"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_23"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_23"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_23"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_gbolohun_kukuru_ati_itumo_24"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/gbolohun_kukuru_24"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/small_sentence_24"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
+</ScrollView>

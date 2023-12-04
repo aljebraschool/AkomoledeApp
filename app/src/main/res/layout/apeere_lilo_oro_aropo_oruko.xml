@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:id="@+id/apeere_oro_aropo_oruko"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:minHeight="60dp"
+        android:fontFamily="serif"
+        android:textStyle="bold"
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa"
+        android:background="@color/dark_blue_1_color"
+        android:textColor="@color/white"
+        android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa"
+        android:layout_height="wrap_content">
+
+
+    </TextView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa_1"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_one"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa_1"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa_2"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_two"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa_2"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa_3"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_three"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa_3"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <TextView
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dark_blue_1_color"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:minHeight="60dp"
+        android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo"
+        android:textColor="@color/white"
+        android:textStyle="bold">
+
+
+    </TextView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo_1"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_four"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo_1"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo_2"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_five"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo_2"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo_3"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_six"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo_3"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <TextView
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dark_blue_1_color"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:minHeight="60dp"
+        android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan"
+        android:textColor="@color/white"
+        android:textStyle="bold">
+
+
+    </TextView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan_1"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_seven"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan_1"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan_2"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_eight"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan_2"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan_3"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_nine"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan_3"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <TextView
+        android:id="@+id/layout_apeere_lilo_oro_aropo_oruko_ninu_gbolohun"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dark_blue_1_color"
+        android:fontFamily="serif"
+        android:gravity="center"
+        android:minHeight="60dp"
+        android:text="@string/apeere_lilo_oro_aropo_oruko_ninu_gbolohun"
+        android:textColor="@color/white"
+        android:textStyle="bold">
+
+
+    </TextView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_apeere_aropo_oruko_ninu_gbolohun_one"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_ten"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_aropo_oruko_1"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_apeere_aropo_oruko_ninu_gbolohun_two"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_eleven"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/apeere_oro_aropo_oruko_2"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:id="@+id/ami_definition"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:background="@color/dark_blue_1_color">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:minHeight="100dp"
+            android:padding="2dp"
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/alaye_apeere_oro_aropo_oruko_text_view_1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:fontFamily="sans-serif-light"
+                android:text="@string/alaye_apeere_oro_aropo_oruko_1"
+                android:textSize="20sp"
+                android:background="?android:attr/selectableItemBackground"
+                android:textStyle="bold"
+                android:padding="1dp"
+                android:textColor="@color/background_color">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/alaye_apeere_oro_aropo_oruko_text_view_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:fontFamily="sans-serif-light"
+                android:text="@string/alaye_apeere_oro_aropo_oruko_2"
+                android:textSize="20sp"
+                android:background="?android:attr/selectableItemBackground"
+                android:textStyle="bold"
+                android:padding="1dp"
+                android:textColor="@color/background_color">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>
+</ScrollView>
+

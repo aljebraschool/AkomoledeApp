@@ -1,0 +1,2238 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:id="@+id/oro_ati_itumo"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:minHeight="60dp"
+        android:fontFamily="serif"
+        android:textStyle="bold"
+        android:id="@+id/textview_oro_ati_itumo"
+        android:background="@color/dark_blue_1_color"
+        android:textColor="@color/white"
+        android:text="@string/atumo"
+        android:layout_height="wrap_content">
+
+
+    </TextView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_oro_ati_itumo_one"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ile"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/house"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_two"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ati"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/and"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_three"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ojuse"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/duty"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+        <LinearLayout
+            android:id="@+id/layout_oro_ati_itumo_four"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:minHeight="60dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:layout_height="wrap_content">
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:fontFamily="serif"
+                android:background="@color/dark_blue_1_color"
+                android:textColor="@color/white"
+                android:text="@string/ilekun"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+            <TextView
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:background="@color/dark_blue_1_color"
+                android:layout_weight="1"
+                android:layout_marginStart="8dp"
+                android:fontFamily="sans-serif-light"
+                android:textStyle="bold"
+                android:textColor="@color/background_color"
+                android:text="@string/door"
+                android:layout_height="match_parent">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_five"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/aso"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/cloths"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_6"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ise"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/work"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_7"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ile"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/land"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_8"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/egbe"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/group"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_9"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ojo"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/rain"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_10"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/oorun"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/sun"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_11"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/osupa"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/moon"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_12"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/irawo"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/star"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_13"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ofurufu"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/sky"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_14"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/aye"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/earth"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_15"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/omi"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/water"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_16"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/aga"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/chair"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_17"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/agbalagba"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/adult"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_18"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/igbimo"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/committee"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_19"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/alaga"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/chairperson"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_20"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ololufe"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/lover"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_21"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/iya"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/mother"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_22"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/baba"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/father"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_23"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/aburo"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/younger_siblings"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_24"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/egbon"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/elder_siblings"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_25"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ijinle"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/mystery"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_26"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/oko_oju_omi"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/ship"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_27"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/oko_oju_irin"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/train"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_28"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/akoonu"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/content"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_29"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/asamo"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/abst"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_30"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/apejo"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/feast"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_31"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ayeye"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/ceremony"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_32"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/odun"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/festival"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_33"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ilu"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/town"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_34"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/iluu"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/drum"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_35"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/oluko"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/teacher"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_36"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/akekoo"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/student"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_37"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/oga"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/boss"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_38"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/osise"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/staff"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_39"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/oluso_aguntan"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/shepard"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_40"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/aguntan"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/sheep"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_41"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ewure"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/goat"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_42"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ori"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/head"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_43"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ese"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/leg"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_44"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/oju"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/eyes"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_45"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/imero"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/technology"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_46"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/sayensi"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/science"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_47"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/itakun_agbaye"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/www"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_48"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ero_ibanisoro"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/phone"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_49"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ipa"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/force"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_oro_ati_itumo_50"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/ipaa"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="1"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/impact"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
+</ScrollView>

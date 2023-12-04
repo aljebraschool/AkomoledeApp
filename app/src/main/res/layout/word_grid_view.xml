@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent_grid_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<GridView
+    android:id="@+id/grid_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:numColumns="4"
+    android:horizontalSpacing="5dp"
+    android:verticalSpacing="5dp"
+    tools:context="com.example.akomolede.aljebraschool.example.akomolede.AlifabetiYoruba"
+    android:background="?android:attr/selectableItemBackground"
+    />
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/word_grid_adView_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/ad_unit_id_word_grid" />
+
+</RelativeLayout>
+
+
+
+

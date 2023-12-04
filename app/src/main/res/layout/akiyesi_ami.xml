@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/akiyesi"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:id="@+id/layout_notice_one"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_one"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/akiyesi_kini"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_notice_two"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_two"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/akiyesi_keji"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@drawable/horizontal_line" />
+
+    <LinearLayout
+        android:id="@+id/layout_notice_three"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:minHeight="60dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:background="@color/dark_blue_1_color"
+            android:textColor="@color/white"
+            android:text="@string/notice_three"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:background="@color/dark_blue_1_color"
+            android:layout_weight="2"
+            android:layout_marginStart="8dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:textColor="@color/background_color"
+            android:text="@string/akiyesi_keta"
+            android:layout_height="match_parent">
+
+
+        </TextView>
+
+    </LinearLayout>
+
+
+</LinearLayout>

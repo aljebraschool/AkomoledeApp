@@ -1,0 +1,20 @@
+<!-- Copyright (C) 2023 The is an open source Yoruba language app project
+                for my Muhammed VI polytechnic university
+                UM6P second semester course in computer
+                science method in collective intelligence
+
+        Licensed under the Apache License, Version 2.0 (the "License");
+-->
+<resources>
+
+
+    <style name="testStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+</resources>
+

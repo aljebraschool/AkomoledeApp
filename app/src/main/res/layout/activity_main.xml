@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_height="wrap_content">
+
+
+    <GridLayout
+        android:id="@+id/main_activity"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:columnCount="2"
+        android:background="@color/white_background"
+        android:alignmentMode="alignBounds"
+        android:rowOrderPreserved="false"
+        android:useDefaultMargins="true">
+
+        <LinearLayout
+            android:id="@+id/number_one_text_view"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="@color/light_blue_5_color"
+            android:minHeight="48dp"
+            android:layout_gravity="fill_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_looks_one_white_48"
+                android:contentDescription="@string/lesson_one">
+
+            </ImageView>
+
+            <TextView
+
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/eko_kini" />
+
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/lesson_one" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:id="@+id/number_two_text_view"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:background="@color/light_blue_5_color"
+            android:gravity="center"
+            android:minHeight="48dp"
+            android:layout_gravity="fill_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_looks_two_white_48"
+                android:contentDescription="@string/lesson_two">
+
+            </ImageView>
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/eko_keji" />
+
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/lesson_two" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/number_three_text_view"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:background="@color/light_blue_5_color"
+            android:gravity="center"
+            android:minHeight="48dp"
+            android:layout_gravity="fill_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_looks_3_white_48"
+                android:contentDescription="@string/lesson_three">
+
+            </ImageView>
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/background_color"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/eko_keta" />
+
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/lesson_three" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/number_four_text_view"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:background="@color/light_blue_5_color"
+            android:gravity="center"
+            android:minHeight="48dp"
+            android:layout_gravity="fill_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_looks_4_white_48"
+                android:contentDescription="@string/lesson_four">
+
+            </ImageView>
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/background_color"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/eko_kerin" />
+
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/lesson_four" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/number_five_text_view"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:background="@color/light_blue_6_color"
+            android:gravity="center"
+            android:minHeight="48dp"
+            android:layout_gravity="fill_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_looks_5_white_48"
+                android:contentDescription="@string/lesson_five">
+
+            </ImageView>
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/eko_karun" />
+
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/lesson_five" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/number_six_text_view"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:background="@color/light_blue_6_color"
+            android:gravity="center"
+            android:minHeight="48dp"
+            android:layout_gravity="fill_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_looks_6_white_48"
+                android:contentDescription="@string/lesson_six">
+
+            </ImageView>
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/eko_kefa" />
+
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/lesson_six" />
+
+        </LinearLayout>
+
+        <!--    new-->
+
+        <LinearLayout
+            android:id="@+id/number_seven_text_view"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:background="@color/dark_blue_1_color"
+            android:gravity="center"
+            android:minHeight="48dp"
+            android:layout_gravity="fill_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_looks_7_white_48"
+                android:contentDescription="@string/lesson_seven">
+
+            </ImageView>
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/background_color"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/eko_keje" />
+
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/background_color"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/lesson_seven" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/number_eight_text_view"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:background="@color/dark_blue_1_color"
+            android:gravity="center"
+            android:minHeight="48dp"
+            android:layout_gravity="fill_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_looks_8_white_48"
+                android:contentDescription="@string/lesson_eight">
+
+            </ImageView>
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/background_color"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/eko_kejo" />
+
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/background_color"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/lesson_eight" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/number_nine_text_view"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:background="@color/dark_blue_2_color"
+            android:gravity="center"
+            android:minHeight="48dp"
+            android:layout_gravity="fill_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_looks_9_white_48"
+                android:contentDescription="@string/lesson_nine">
+
+            </ImageView>
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/eko_kesan" />
+
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/lesson_nine" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/number_ten_text_view"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_columnWeight="1"
+            android:orientation="vertical"
+            android:background="@color/dark_blue_2_color"
+            android:gravity="center"
+            android:minHeight="48dp"
+            android:layout_gravity="fill_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_looks_10_white_48"
+                android:contentDescription="@string/lesson_ten">
+
+            </ImageView>
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/eko_kewa" />
+
+
+            <TextView
+                style="@style/testStyle"
+                android:textColor="@color/white"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/lesson_ten" />
+
+        </LinearLayout>
+
+
+
+
+    </GridLayout>
+
+</ScrollView>
+

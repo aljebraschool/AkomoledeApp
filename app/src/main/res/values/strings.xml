@@ -1,0 +1,1225 @@
+<!-- Copyright (C) 2023 The is an open source Yoruba language app project
+                for my Muhammed VI polytechnic university
+                UM6P second semester course in computer
+                science method in collective intelligence
+
+        Licensed under the Apache License, Version 2.0 (the "License");
+
+
+-->
+<resources>
+
+    <string name="ad_unit_id_word_list_activity">ca-app-pub-9981561473221924/8286179660</string>
+    <string name="ad_unit_id_word_grid">ca-app-pub-9981561473221924/3177355033</string>
+    <string name="ad_unit_id_apeere_ami_activity">ca-app-pub-9981561473221924/1916244254</string>
+    <string name="ad_unit_id_apeere_siso_oro_activity">ca-app-pub-9981561473221924/7346602702</string>
+
+    <!-- Add more ad unit IDs for each activity as needed -->
+
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Akọ́mọlédè</string>
+
+
+    <string name="e_kaabo">Ẹ káàbọ̀ sí yára ìkẹ́kọ̀ọ́</string>
+
+    <string name="welcome">Welcome to class...</string>
+
+
+    <string name="eko_kini">Ẹ̀kọ́ kìn-ín-ní</string>
+
+    <string name="lesson_one">(Lesson one)</string>
+
+
+    <string name="alfabeti">Álífábẹ́ẹ̀tì Èdè Yorùbá</string>
+
+    <string name="kekere_nla_alphabet">Álífábẹ́ẹ̀tì Ńlá àti kékeré</string>
+
+    <string name="small_big_alphabet">(Capital and Small letter)</string>
+
+    <string name="onka_alphabet">Álífábẹ́ẹ̀tì márùndínlọ́gbọ̀n ló wà nínú èdè Yorùbá</string>
+
+    <string name="number_of_alphabet">(Yorùbá Alphabet has 25 letters)</string>
+
+    <string name="A">Aa</string>
+
+    <string name="sound_a"> (ah)</string>
+
+    <string name="B">Bb</string>
+
+    <string name="sound_b"> (bi)</string>
+
+    <string name="D">Dd</string>
+
+    <string name="sound_d"> (di)</string>
+
+    <string name="E">Ee</string>
+
+    <string name="sound_e"> (hay)</string>
+
+    <string name="Ee">Ẹẹ </string>
+
+    <string name="sound_Ee"> (hen)</string>
+
+    <string name="F">Ff </string>
+
+    <string name="sound_F"> (fi)</string>
+
+    <string name="G">Gg </string>
+
+    <string name="sound_g"> (gi)</string>
+
+    <string name="Gb">Gb </string>
+
+    <string name="sound_gb"> (gb)</string>
+
+    <string name="H">Hh </string>
+
+    <string name="sound_In"> (in)</string>
+
+    <string name="I">Ii </string>
+
+    <string name="sound_He"> (he!)</string>
+
+    <string name="J"> Jj </string>
+
+    <string name="sound_J"> (ji)</string>
+
+    <string name="K">Kk </string>
+
+    <string name="sound_K"> (kí)</string>
+
+    <string name="L">Ll </string>
+
+    <string name="sound_L"> (li)</string>
+
+    <string name="M"> Mm </string>
+
+    <string name="sound_M"> (mi)</string>
+
+    <string name="N"> Nn  </string>
+
+    <string name="sound_N"> (ni)</string>
+
+    <string name="O">Oo </string>
+
+    <string name="sound_O"> (oh)</string>
+
+    <string name="Oo">Ọọ </string>
+
+    <string name="sound_Oo"> (or!)</string>
+
+    <string name="P">Pp </string>
+
+    <string name="sound_P"> (pi)</string>
+
+    <string name="R">Rr </string>
+
+    <string name="sound_R"> (ri)</string>
+
+    <string name="S">SS </string>
+
+    <string name="sound_S"> ( c)</string>
+
+    <string name="Ss">Ṣs </string>
+
+    <string name="sound_Ss"> (shi)</string>
+
+    <string name="T">Tt </string>
+
+    <string name="sound_T"> (ti)</string>
+
+    <string name="U">Uu </string>
+
+    <string name="sound_U"> (uh!)</string>
+
+    <string name="W">Ww </string>
+
+    <string name="sound_W"> (wi)</string>
+
+    <string name="Y"> Yy </string>
+
+    <string name="sound_y"> (yi)</string>
+
+    <string name="faweli">Fawẹ́lì</string>
+
+    <string name="vowel">(Vowels)</string>
+
+    <string name="kosonanti">Kọ́sónàntì</string>
+
+    <string name="consonant">(Consonants)</string>
+
+    <string name="eko_keji">  Ẹ̀kọ́ Kejì </string>
+
+    <string name="lesson_two"> (Lesson two) </string>
+
+
+    <string name="asopo_kosonanti_faweli">  Àsopọ̀ Kọ́sónàntì àti Fáwẹ́lì </string>
+
+    <string name="join_vowel_consonant"> (combination of Consonant and Vowel) </string>
+
+    <string name="bi_ase_se_asopo"> Kọ́sónàntì ni a óò fi bẹ̀rẹ̀ tí a óò sì so Fáwẹ́lì pọ̀ mọ </string>
+
+
+    <string name="how_to_join_words"> (to form this, we will Combine the vowels to the consonants) </string>
+
+    <string name="asopo"> Àsopọ̀-Ọ̀rọ̀</string>
+
+    <string name="asopo_ba"> B+A</string>
+
+    <string name="asopo_b_a">Bá</string>
+
+    <string name="asopo_be">B+E</string>
+
+    <string name="asopo_b_e">Bé</string>
+
+    <string name="asopo_bee">B+Ẹ</string>
+
+    <string name="asopo_b_ee">Bẹ́</string>
+
+    <string name="asopo_bi">B+I</string>
+
+    <string name="asopo_b_i">Bí</string>
+
+    <string name="asopo_bo">B+O</string>
+
+    <string name="asopo_b_o">Bo</string>
+
+    <string name="asopo_boo">B+Ọ</string>
+
+    <string name="asopo_b_oo">Bọ</string>
+
+    <string name="asopo_bu"> B+U</string>
+
+    <string name="asopo_b_u"> Bù</string>
+
+
+    <string name="asopo_da"> D+Á</string>
+
+    <string name="asopo_d_a"> DÁ</string>
+
+    <string name="asopo_de"> D+É</string>
+
+    <string name="asopo_d_e"> DÉ</string>
+
+    <string name="asopo_dee"> D+Ẹ́</string>
+
+    <string name="asopo_d_ee"> DẸ́</string>
+
+    <string name="asopo_di"> D+Í</string>
+
+    <string name="asopo_d_i"> DÍ</string>
+
+    <string name="asopo_do"> D+O</string>
+
+    <string name="asopo_d_o"> DO</string>
+
+    <string name="asopo_doo"> D+Ọ</string>
+
+    <string name="asopo_d_oo"> DỌ</string>
+
+    <string name="asopo_du"> D+Ù</string>
+
+    <string name="asopo_d_u"> DÙ</string>
+
+
+    <string name="asopo_fa"> F+A</string>
+
+    <string name="asopo_f_a"> FA</string>
+
+    <string name="asopo_fe"> F+E</string>
+
+    <string name="asopo_f_e"> FE</string>
+
+
+    <string name="asopo_fee"> F+Ẹ́</string>
+
+
+    <string name="asopo_f_ee"> FẸ́</string>
+
+
+    <string name="asopo_fi"> F+Í</string>
+
+    <string name="asopo_f_i"> FÍ</string>
+
+
+    <string name="asopo_fo">  F+O</string>
+
+    <string name="asopo_f_o">  FO</string>
+
+    <string name="asopo_foo"> F+Ọ</string>
+
+    <string name="asopo_f_oo"> FỌ</string>
+
+    <string name="asopo_fu"> F+Ù</string>
+
+    <string name="asopo_f_u"> FÙ</string>
+
+    <string name="asopo_ga"> G+Á</string>
+
+    <string name="asopo_g_a"> GÁ</string>
+
+    <string name="asopo_ge"> G+E</string>
+
+    <string name="asopo_g_e"> GE</string>
+
+    <string name="asopo_gee">  G+Ẹ́</string>
+
+
+    <string name="asopo_g_ee">  GẸ́</string>
+
+    <string name="asopo_gi"> G+Í</string>
+
+    <string name="asopo_g_i"> GÍ</string>
+
+    <string name="asopo_go"> G+O</string>
+
+    <string name="asopo_g_o"> GO</string>
+
+    <string name="asopo_goo"> G+Ọ</string>
+
+    <string name="asopo_g_oo"> GỌ</string>
+
+    <string name="asopo_gu"> G+Ù</string>
+
+    <string name="asopo_g_u"> GÙ</string>
+
+    <string name="asopo_gb">G+B</string>
+
+    <string name="asopo_g_b">GB</string>
+
+    <string name="asopo_gba">G+B+Á</string>
+
+    <string name="asopo_g_ba">GBÁ</string>
+
+    <string name="asopo_gbe">G+B+É</string>
+
+    <string name="asopo_g_be">GBÉ</string>
+
+    <string name="asopo_gbee">G+B+Ẹ́</string>
+
+    <string name="asopo_gb_ee">GBẸ́</string>
+
+    <string name="asopo_gbi">G+B+Í</string>
+
+    <string name="asopo_gb_i">GBÍ</string>
+
+    <string name="asopo_gbo">G+B+O</string>
+
+    <string name="asopo_gb_o">GBO</string>
+
+    <string name="asopo_gboo">G+B+Ọ</string>
+
+    <string name="asopo_gbo_O">GBỌ</string>
+
+    <string name="asopo_gbu">G+B+Ù</string>
+
+    <string name="asopo_gb_u">GBÙ</string>
+
+
+    <string name="ise_ifikora">Isẹ́ ìfikọ́ra </string>
+
+    <string name="Exercise">Exercise </string>
+
+    <string name="ise_amurele_2">Ṣé àsopọ̀ fún àwọn kọ́sónàntì àti fáwẹ̀lì yóòkù </string>
+
+
+    <string name="exercise_2">(Combine other Consonants and Vowels)</string>
+
+
+    <string name="eko_keta">   Ẹ̀kọ́ Kẹta </string>
+
+    <string name="lesson_three">   (Lesson three) </string>
+
+    <string name="ami_ohum">Àmì Ohùn</string>
+
+    <string name="oriki_ami">Oríkì - Àmì Ohùn</string>
+
+    <string name="definition">Definition</string>
+
+    <string name="alaye_ami_ohum">Àmì  Ohùn ni on fi ìgbóhùn sókè-sódò wa hàn nígbà tí a bá ń pe ọ̀rọ̀</string>
+
+    <string name="definition_of__ami">(Tone sign shows the flows of voice while pronouncing words)</string>
+
+
+    <string name="iran_ami"> Oríṣii Àmì Ohùn</string>
+
+    <string name="types_of__ami"> Types of Tone Sign </string>
+
+    <string name="ami_oke"> Àmì Ohùn òkè</string>
+
+    <string name="ami_mi">mí (/)</string>
+
+    <string name="ami_do">dò ( \\ )</string>
+
+    <string name="ami_isale">  Àmì Ohùn ìsàlẹ̀</string>
+
+    <string name="ami_aarin">  Àmì Ohùn àárín</string>
+
+    <string name="ami_re">re (-)</string>
+
+    <string name="akiye_lori_ami">Àkíyèsí lórí Àmì Ohùn</string>
+
+    <string name="notice_on_sign">Note on Tone Sign</string>
+
+    <string name="akiyesi_kini">A kìí fi àmì ‘re’ sórí ọ̀rọ̀ </string>
+
+    <string name="notice_one">1</string>
+
+    <string name="akiyesi_keji">Orí fawẹ̀lì ni a má ń fi àmì ohùn sí </string>
+
+    <string name="notice_two">2</string>
+
+    <string name="akiyesi_keta">A kìí fi àmì ohùn sórí kọ́sónàntì àyàfi kọ́sónàntì aṣesílébù ‘M àti N’ </string>
+
+    <string name="notice_three">3</string>
+
+    <string name="notice_four">4</string>
+
+    <string name="notice_five">5</string>
+
+    <string name="notice_six">6</string>
+
+    <string name="notice_seven">7</string>
+
+    <string name="notice_eight">8</string>
+
+    <string name="notice_nine">9</string>
+
+    <string name="notice_ten">10</string>
+
+    <string name="notice_eleven">11</string>
+
+    <string name="notice_twelve">12</string>
+
+    <string name="notice_thirteen">13</string>
+
+    <string name="notice_14">14</string>
+
+    <string name="notice_15">15</string>
+
+    <string name="notice_16">16</string>
+
+    <string name="notice_17">17</string>
+
+    <string name="notice_18">18</string>
+
+    <string name="notice_19">19</string>
+
+    <string name="notice_20">20</string>
+
+    <string name="notice_21">21</string>
+
+    <string name="notice_22">22</string>
+
+    <string name="notice_23">23</string>
+
+    <string name="notice_24">24</string>
+
+    <string name="notice_25">25</string>
+
+    <string name="notice_26">26</string>
+
+    <string name="notice_27">27</string>
+
+
+    <string name="apeere_lilo_ami">Àpẹẹrẹ Lílo Àmì Ohùn</string>
+
+    <string name="example_ami">Examples of Sign Tone</string>
+
+    <string name="apeere_lilo_ami_1">Adé = re mi</string>
+
+    <string name="apeere_lilo_ami_2">Ọba = re re</string>
+
+    <string name="apeere_lilo_ami_3">Ìjòkó = dò dò mi</string>
+
+    <string name="apeere_lilo_ami_4">Ilẹ̀ = re dò</string>
+
+    <string name="apeere_lilo_ami_5">Bọ́lá = mi mi</string>
+
+    <string name="instruction_isefikora_2">Kọ àwọn ọ̀rọ̀ wọ̀nyìí ní àmì</string>
+
+    <string name="exercise_2_instruction">(write out the signs that represents this tone)</string>
+
+    <string name="isefikora_2_kini"> Mí mí mí</string>
+
+    <string name="isefikora_2_keji"> Dò dò dò</string>
+
+    <string name="isefikora_2_keta"> Re re re</string>
+
+    <string name="isefikora_2_kerin"> Dọ̀ dò mí</string>
+
+    <string name="eko_kerin">   Ẹ̀kọ́ kẹrin </string>
+
+    <string name="lesson_four">   (Lesson four) </string>
+
+    <string name="siso_oro">Síso ọ̀rọ̀ pọ̀</string>
+
+    <string name="word_formation">(Words formation)</string>
+
+    <string name="oriki_siso_oro">Oríkì - Síso ọ̀rọ̀ pọ̀ </string>
+
+    <string name="alaye_siso_oro"> Tí a bá fẹ́ sọ ọ̀rọ̀ pọ̀ lédè Yorùbá, a gbọ́dọ̀ rí dájú pé a tẹ̀lé bátànì “fkf tàbí ìlànà kf” </string>
+
+    <string name="definition_of_word_formation">(Words formations in Yorùbá must follows “fkf or kf”pattern) </string>
+
+    <string name="definition_of_word_formation2">K stands for kọ́sónàntì And F for Fáwẹ̀lì </string>
+
+    <string name="apeere_siso_oro">Àpẹẹrẹ Síso ọ̀rọ̀ pọ̀</string>
+
+    <string name="example_siso_oro">Examples of Words Formations</string>
+
+    <string name="apeere_siso_oro_1">Adé (ó tẹ̀lé bátànì “FKF”)</string>
+
+    <string name="apeere_siso_oro_2">Omi (ó tẹ̀lé bátànì \"FKF\")</string>
+
+    <string name="apeere_siso_oro_3">Bọ́lá (ó tẹ̀lé bátànì “KF”) </string>
+
+    <string name="apeere_siso_oro_4">Túndé (ó tẹ̀lé bátànì \"KFKFK\")</string>
+
+    <string name="apeere_siso_oro_5">Adéọlá (ó tẹ̀lé bátànì \"FKFFKF\")</string>
+
+    <string name="apeere_siso_oro_6">Kòkò (ó tẹ̀lé bátànì \"KFKF\")</string>
+
+    <string name="alaye_isefikora_4">Wo sípẹ́lì orúkọ tàbí nǹkan lédè Yorùbá kí o sì wo bátánì tí ó tẹ̀lé</string>
+
+    <string name="exercise_4_instruction">(Observe some spellings of Names or things and the detect the pattern it follows)</string>
+
+    <string name="eko_karun">   Ẹ̀kọ́ karùn-ún </string>
+
+    <string name="lesson_five">   (Lesson 5) </string>
+
+    <string name="ikini"> Ìkíni</string>
+
+    <string name="oriki_ikini">Oríkì - Ìkíni</string>
+
+    <string name="greetings">(Greetings)</string>
+
+
+    <string name="alaye_ikini">Ohun pàtàkì ni ìkíni jẹ́ ní àwùjọ Yorùbá</string>
+
+    <string name="greetings_definition">(Greetings is a predominant factor in the Yorùbá society)</string>
+
+    <string name="asiko_ikini">Àsìkò àti Ikíni</string>
+
+    <string name="asiko_ikini_ati_bi_ase_kini">Àsìkò àti bí a ṣe ń Kíni</string>
+
+    <string name="time_of_greetings">Periods and how to Greet</string>
+
+    <string name="asiko_ikini_kini">Àárọ̀ (Morning) = Ẹ káàárọ̀</string>
+
+    <string name="asiko_ikini_keji"> Ọ̀sán (Afternoon) = ẹ káàsàn-án</string>
+
+    <string name="asiko_ikini_keta"> Ìrọ̀lẹ̀ (Evening) = ẹ kúrọ̀lẹ́</string>
+
+    <string name="asiko_ikini_kerin"> Alẹ́ (Evening) = Ẹ káalẹ́</string>
+
+    <string name="asiko_ikini_karun">  Ìdájí (Dawn) = A kú Ìdájí</string>
+
+    <string name="akiyesi_lori_ikini">  Àkíyèsí lórí Ìkíni</string>
+
+    <string name="notice_on_greetings">Note on Greetings</string>
+
+    <string name="oro_lori_akiyesi_ikini"> “Ẹ” in Yorùbá is a sign of respect for an adult, but for a younger person or owns mate there is no need for it</string>
+
+    <string name="akiyesi_lori_ikini_1">  Ẹ káàárọ̀ (good morning) = fún àgbàlagbà (while greeting and adult)</string>
+
+    <string name="akiyesi_lori_ikini_2"> Ká àárọ̀ (good morning) = fún ọmọdé àti ẹgbẹ́ ẹni (good morning for a younger person or owns mate)</string>
+
+    <string name="alaye_isefikora_5">Bẹ̀rẹ̀ sí ní kí àwọn ènìyàn tí ó gbọ́ Yorùbá láyìíká ẹ pẹ̀lú Yorùbá </string>
+
+    <string name="exercise_5_instruction">(Start greeting people around you with Yorùbá)</string>
+
+    <string name="eko_kefa">Ẹ̀kọ́ kẹfà</string>
+
+    <string name="lesson_six">(Lesson 6) </string>
+
+    <string name="oro_ise">Ọ̀rọ̀-Ìṣe</string>
+
+    <string name="oriki_oro_ise">Oríkì - Ọ̀rọ̀-Ìṣe</string>
+
+    <string name="verb">(Verb)</string>
+
+    <string name="alaye_oro_ise">Ọ̀rọ̀-ìṣe ni àwọn ọ̀rọ̀ tí ó ń fi ìṣe hàn nínú gbólóhùn</string>
+
+    <string name="verb_definition">(Verbs are words that express action or state of being)</string>
+
+    <string name="apeere_oro_ise">Àpẹẹrẹ Ọ̀rọ̀-Ìṣe</string>
+
+    <string name="example_verb">Examples of Verb</string>
+
+    <string name="apeere_oro_ise_1">Sáré \n(Run)</string>
+
+    <string name="apeere_oro_ise_2">Túndé sáré wá \n(Tunde, come quickly)</string>
+
+    <string name="apeere_oro_ise_3">Mo fẹ́ sáré jáde \n(I want to quickly gets somewhere)</string>
+
+    <string name="apeere_oro_ise_4">Dúró \n(wait)</string>
+
+    <string name="apeere_oro_ise_5">Dúró dèmí mò ń bọ̀ \n(I’m coming, wait for me)</string>
+
+    <string name="apeere_oro_ise_6">Mo fẹ́ jókòó \n(I want to sit)</string>
+
+    <string name="apeere_oro_ise_7">Fọlákẹ́ dúró fún Ṣadé láti jókòó \n(Fọlákẹ́ stood for Ṣadé to sit)</string>
+
+    <string name="apeere_oro_ise_8"> Jókòó \n(sit down)</string>
+
+    <string name="apeere_oro_ise_9"> Bàbá ti jókòó ti pẹ́ \n(Father has sat for long)</string>
+
+    <string name="apeere_oro_ise_10"> Sùn \n(sleep)</string>
+
+    <string name="apeere_oro_ise_11"> Mo fẹ́ sùn \n(I want to sleep)</string>
+
+    <string name="apeere_oro_ise_12"> Bọ́lá ń sùn \n(Bọ́lá is sleeping)</string>
+
+    <string name="apeere_oro_ise_13">  Wá \n(come/came)</string>
+
+    <string name="apeere_oro_ise_14"> Jọ̀wọ́ wá \n(please come)</string>
+
+    <string name="apeere_oro_ise_15">  Mo wá mi ò bá a yín \n(I came, you weren’t around)</string>
+
+    <string name="apeere_oro_ise_16">  Lọ \n(go/went)</string>
+
+    <string name="apeere_oro_ise_17"> Mo fẹ́ jẹun \n(I want to eat)</string>
+
+
+    <string name="apeere_oro_ise_18"> Màmá lọ si Ọjà \n(Mother went to the market)</string>
+
+    <string name="apeere_oro_ise_19">  Fò \n(jump)</string>
+
+    <string name="apeere_oro_ise_20">  Fò sókè \n(Jump up)</string>
+
+    <string name="apeere_oro_ise_21">  Fò sílẹ̀  láti òkè \n(jump down from the top)</string>
+
+    <string name="apeere_oro_ise_22"> Rà \n(buy/brought)</string>
+
+    <string name="apeere_oro_ise_23">  Mo ra bàtà tuntun \n(í brought a new Sanda)</string>
+
+    <string name="apeere_oro_ise_24"> Mo fẹ́ ra ọkọ̀ ayọ́kẹ́lẹ́ \n(I want to buy a car)</string>
+
+    <string name="apeere_oro_ise_25"> Tà \n(sell/sold)</string>
+
+    <string name="apeere_oro_ise_26"> Mò ń ta aṣọ \n(I sell clothes)</string>
+
+    <string name="apeere_oro_ise_27">  Mo ti ta ọkọ̀ mi \n(I’ve sold my car)</string>
+
+
+    <string name="akiyesi_lori_oro_ise">Àkíyèsí lórí Ọ̀rọ̀-Ìṣe</string>
+
+    <string name="notice_on_verb">Note on Verb</string>
+
+    <string name="akiyesi_oro_ise_kini">A kìí fi àmì ‘re’ sórí ọ̀rọ̀ </string>
+
+
+    <string name="alaye_isefikora_6"> Bí o ṣe ń ní àjọṣepọ̀ pẹ̀lú àwọn elédè gan-an, máa kíyẹ̀sí àwọn ọ̀rọ̀-ìṣe inú gbólóhùn tí wọ́n bá ń sọ </string>
+
+    <string name="exercise_6_instruction">(As you relate with Yorùbá native speakers, try to note the verbs they use )</string>
+
+
+    <string name="eko_keje">   Ẹ̀kọ́ keje </string>
+
+    <string name="lesson_seven">   (Lesson 7) </string>
+
+    <string name="oro_oruko">Ọ̀rọ̀-orúkọ</string>
+
+    <string name="oriki_oro_oruko">Oríkì - Ọ̀rọ̀-orúkọ</string>
+
+    <string name="noun">(Noun)</string>
+
+    <string name="alaye_oro_oruko">Ọ̀rọ̀-orúkọ lè jẹ́ orúkọ ènìyàn, ẹranko, ibùgbé/ìlú, nǹkan àti òye</string>
+
+    <string name="noun_definition"> (Nouns are naming words)</string>
+
+    <string name="apeere_oro_oruko">Àpẹẹrẹ Ọ̀rọ̀-orúkọ</string>
+
+    <string name="example_noun">Examples of Noun</string>
+
+    <string name="apeere_oro_oruko_iran_kini">Orúkọ Ènìyàn (Human names)</string>
+
+    <string name="apeere_oro_oruko_1">Táyé</string>
+
+    <string name="apeere_oro_oruko_2">Bòdè</string>
+
+    <string name="apeere_oro_oruko_3"> Michelle</string>
+
+    <string name="apeere_oro_oruko_4"> Florence</string>
+
+
+    <string name="apeere_oro_oruko_5"> Adésànyà</string>
+
+    <string name="apeere_oro_oruko_6"> Títílayọ̀</string>
+
+
+    <string name="apeere_oro_oruko_iran_keji"> Orúkọ Ẹranko (Names of Animal)</string>
+
+    <string name="apeere_oro_oruko_7">Ajá (Dog)</string>
+
+    <string name="apeere_oro_oruko_8"> Ewúré (Goat)</string>
+
+    <string name="apeere_oro_oruko_9">Àgùntàn (Sheep)</string>
+
+    <string name="apeere_oro_oruko_10"> Adìyẹ (Hen)</string>
+
+    <string name="apeere_oro_oruko_11"> Ejò (Snake)</string>
+
+    <string name="apeere_oro_oruko_iran_keta"> Orúkọ Ibùgbé (Place)</string>
+
+    <string name="apeere_oro_oruko_12"> Ìbàdàn</string>
+
+    <string name="apeere_oro_oruko_13">Sókótó</string>
+
+    <string name="apeere_oro_oruko_14">  Abia</string>
+
+    <string name="apeere_oro_oruko_15">   Ghana</string>
+
+    <string name="apeere_oro_oruko_16"> London</string>
+
+    <string name="apeere_oro_oruko_iran_kerin"> Orúkọ Nǹkan (Names of things)</string>
+
+    <string name="apeere_oro_oruko_17"> Ṣíbí (Spoon)</string>
+
+    <string name="apeere_oro_oruko_18"> Abọ́ (Plate)</string>
+
+    <string name="apeere_oro_oruko_19"> Igi (Tree)</string>
+
+    <string name="apeere_oro_oruko_20">  Àga (Chair)</string>
+
+    <string name="apeere_oro_oruko_iran_kerun">  Ọ̀rọ̀-afòye hàn (Ideas)</string>
+
+    <string name="apeere_oro_oruko_21">  Ikú (death)</string>
+
+    <string name="apeere_oro_oruko_22">  Àrùn (illness)</string>
+
+    <string name="apeere_oro_oruko_23">  Ìfẹ́ (love)</string>
+
+    <string name="apeere_oro_oruko_iran_kefa">  Àpẹẹrẹ lílo ọ̀rọ̀-orúkọ nínú gbólóhùn \n(Sentence examples of Noun)</string>
+
+    <string name="apeere_oro_oruko_24"> Adé ní ìfẹ́ Ṣadé (Adé loves Ṣadé)</string>
+
+    <string name="apeere_oro_oruko_25"> Igi wó lulẹ̀ (The tree fell)</string>
+
+    <string name="apeere_oro_oruko_26"> Ìlú pa ajá ọdẹ \n(The Hunter dog is dead)</string>
+
+    <string name="apeere_oro_oruko_27">  Mo lọ sí Ghana (I went to Ghana)</string>
+
+    <string name="alaye_isefikora_7"> Wo àyíká rẹ, kí o sì ṣàkíyèsí àwọn ohun tí ó jẹ́ Ọ̀rọ̀-Orúkọ </string>
+
+    <string name="exercise_7_instruction">(Look around you and identify naming words)</string>
+
+
+    <string name="eko_kejo">    Ẹ̀kọ́ kejo </string>
+
+    <string name="lesson_eight">   (Lesson 8) </string>
+
+    <string name="oro_aropo_oruko">Ọ̀rọ̀ Arọ́pò-Orúkọ</string>
+
+    <string name="oriki_oro_aropo_oruko">Oríkì - Ọ̀rọ̀ Arọ́pò-Orúkọ</string>
+
+    <string name="pronoun">(Pronoun)</string>
+
+    <string name="alaye_oro_aropo_oruko"> Ọ̀rọ̀ arọ́pò-Orúkọ ni à ń lò dípò ọ̀rọ̀-orúkọ nínú gbólóhùn</string>
+
+    <string name="pronoun_definition"> (Pronouns are used to replace a noun in a sentence)</string>
+
+    <string name="apeere_oro_aropo_oruko">Àpẹẹrẹ Ọ̀rọ̀ Arọ́pò-Orúkọ</string>
+
+    <string name="example_pronoun">Examples of Pronoun</string>
+
+    <string name="apeere_oro_aropo_oruko_iran_kini">Àpẹẹrẹ Ọ̀rọ̀ Arọ́pò-Orúkọ</string>
+
+    <string name="apeere_oro_aropo_oruko_1">Ade lọ sí oko (Adé went to the farm)</string>
+
+    <string name="apeere_oro_aropo_oruko_2">Ó lọ sí oko (He went to the farm)</string>
+
+    <string name="alaye_apeere_oro_aropo_oruko_1">Adé in the first sentence is a noun. </string>
+
+    <string name="alaye_apeere_oro_aropo_oruko_2">While in the second sentence it is being replaced with the pronoun “O” as the second pronoun</string>
+
+    <string name="apeere_oro_aropo_oruko_iran_keji"> Awon ọ̀rọ̀ arọ́pò-orúkọ Yorùbá (Yoruba pronouns)</string>
+
+    <string name="alaye_apeere_oro_aropo_oruko_iran_keji">Ní èdè Yorùbá Ọ̀rọ̀-a rọ́pò Orúkọ lè ṣiṣẹ́ gẹ́gẹ́ bíi Olùwá,Àbọ̀ tàbí ẹ̀yán nínú gbólóhùn</string>
+
+    <string name="alaye_2_apeere_oro_aropo_oruko_iran_keji">Object or as a Qualifier in a sentence</string>
+
+
+    <string name="apeere_oro_aropo_oruko_iran_keta"> Ọ̀rọ̀ arọ́pò-orúkọ́ ní ipò  Olùwà (Pronouns as a Subject)</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_eni"> Ẹni(Person)</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_eyo"> Eyọ\n(one Person)</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_opo"> Ọ̀pọ̀\n(Group)</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_eni_1"> Kìíni (As the speaker )</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_eyo_1"> Mo</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_opo_1"> A</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_eni_2"> Kejì (Talking to someone else directly)</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_eyo_2"> O</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_opo_2"> Ẹ</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_eni_3"> Kẹta (Reporting speech)</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_eyo_3"> Ó</string>
+
+    <string name="apeere_oro_aropo_oruko_oluwa_opo_3"> Wọ́ṇ</string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa"> Àpẹẹrẹ Lílo Ọ̀rọ̀ arọ́pò-orúkọ́ ní ipò  Olùwà </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa_1"> Mo lọ sí Ọjà (I went to the market) </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa_2">  O pọn omi  (You fetch water) </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_oluwa_3">  A lọ sí ilé-ẹ̀kọ́ (we go to school) </string>
+
+    <string name="apeere_oro_aropo_oruko_iran_kerin">  Ọ̀rọ̀ arọ́pò-orúkọ́ ní ipò  Àbọ̀ (Pronouns as an Object)</string>
+
+    <string name="apeere_oro_aropo_oruko_abo_eyo_1"> Mi</string>
+
+    <string name="apeere_oro_aropo_oruko_abo_opo_1"> Wa</string>
+
+    <string name="apeere_oro_aropo_oruko_abo_eyo_2"> Ọ</string>
+
+    <string name="apeere_oro_aropo_oruko_abo_opo_2"> Yin</string>
+
+    <string name="apeere_oro_aropo_oruko_abo_eyo_3">Àfàgùn fáwẹ̀lì tó kẹ́yìn ọ̀rọ̀-ìṣe</string>
+
+    <string name="apeere_oro_aropo_oruko_abo_opo_3"> Wọ́n</string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo"> Àpẹẹrẹ Lílo Ọ̀rọ̀ arọ́pò-orúkọ́ ní ipò  Àbọ̀ </string>
+
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo_1">  Ó kí mi (He greets me) </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo_2">  Ó wá sí ilé wa (He came to our house) </string>
+
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_abo_3"> Mò ń kí ọ (I’m greeting You) </string>
+
+
+    <string name="apeere_oro_aropo_oruko_iran_karun">   Ọ̀rọ̀ arọ́pò-orúkọ́ ní ipò Ẹ̀yán (Pronouns as a Qualifier)</string>
+
+
+    <string name="apeere_oro_aropo_oruko_eyan_eyo_1"> Mi</string>
+
+    <string name="apeere_oro_aropo_oruko_eyan_opo_1">Wa</string>
+
+    <string name="apeere_oro_aropo_oruko_eyan_eyo_2"> Rẹ</string>
+
+    <string name="apeere_oro_aropo_oruko_eyan_opo_2"> Yín</string>
+
+    <string name="apeere_oro_aropo_oruko_eyan_eyo_3"> Rẹ</string>
+
+    <string name="apeere_oro_aropo_oruko_eyan_opo_3"> Wọn</string>
+
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan"> Àpẹẹrẹ Lílo Ọ̀rọ̀ arọ́pò-orúkọ́ ní ipò  Ẹ̀yán </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_ninu_gbolohun"> Àpẹẹrẹ Lílo Ọ̀rọ̀ arọ́pò-orúkọ́ nínú gbólóhùn </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan_1"> Ajá mi ni (It’s my dogs) </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan_2"> Ilé wa nì yìí (this is Our house) </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_oluwa_ni_ipo_eyan_3">  Ọmọ wọn nìyẹn (that’s their child) </string>
+
+    <string name="isori_oro_aropo_oruko">  Ìsọ̀rí Ọ̀rọ̀ Arọ́pò-Orúkọ </string>
+
+    <string name="classes_of_pronoun"> Categories of pronoun </string>
+
+    <string name="apeere_lilo_ninu_gbolohun">  Àpẹẹrẹ Lílo nínu gbólóhùn </string>
+
+    <string name="examples_in_sentences"> Examples in Sentences </string>
+
+
+    <string name="alaye_isefikora_8">Lo "E, Won, Yín, Wón, Rè àti Re" ní gbólóhùn</string>
+
+    <string name="exercise_8_instruction">(Notice the pronouns when speaking to others)</string>
+
+
+    <string name="eko_kesan">  Ẹ̀kọ́ kẹṣàn-án </string>
+
+    <string name="lesson_nine">   (Lesson 9) </string>
+
+    <string name="oro_aropo_afarajoruko">Ọ̀rọ̀ Arọ́pò-Àfarajórúkọ </string>
+
+    <string name="apeere_oro_aropo_afarajeruko">Àpẹẹrẹ Ọ̀rọ̀ Arọ́pò-Àfarajórúkọ </string>
+
+    <string name="examples_of_pronomial">Examples of Pronomial</string>
+
+    <string name="oriki_oro_aropo_arajeruko">Oríkì -Arọ́pò-Àfarajórúkọ</string>
+
+    <string name="prnonominal">(Pronomial)̣</string>
+
+    <string name="alaye_oro_aropo_oruko_afarajeruko">  Ọ̀rọ̀ Arọ́pò-Àfarajórúkọ jẹ́ ọ̀rọ̀ tí alè lò dípò ọ̀rọ̀-orúkọ nínú gbólóhùn Yorùbá</string>
+
+    <string name="pronominal_definition"> (Ọ̀rọ̀ Arọ́pò-Àfarajórúkọ can also be used in place of a noun)</string>
+
+
+    <string name="apeere_oro_aropo_oruko_arajeruko_eyo_1"> èmi</string>
+
+    <string name="apeere_oro_aropo_oruko_afarajeruko_opo_1"> àwa</string>
+
+    <string name="apeere_oro_aropo_oruko_arajeruko_eyo_2"> ìwọ</string>
+
+    <string name="apeere_oro_aropo_oruko_afarajeruko_opo_2"> ẹ̀yín</string>
+
+    <string name="apeere_oro_aropo_oruko_arajeruko_eyo_3">Òun</string>
+
+    <string name="apeere_oro_aropo_oruko_afarajeruko_opo_3"> àwọn</string>
+
+
+    <string name="apeere_lilo_oro_aropo_oruko_afarajoruko_ninu_gbolohun"> Àpẹẹrẹ Ọ̀rọ̀ Arọ́pò-Àfarajórúkọ nínú gbólóhùn </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_afarajoruko_1"> Èmi ni mo sọ̀rọ̀ (I spoke) </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_afarajoruko_2"> Ìwọ ni o ni í (You owns it) </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_afarajoruko_3"> Àwọn nìyẹn (they are there) </string>
+
+    <string name="apeere_lilo_oro_aropo_oruko_afarajoruko_4"> Ẹ̀yin ni ẹ fàá (You caused it) </string>
+
+    <string name="alaye_isefikora_9">Tóka sí ìyàtò  tó wà laarin òrò arópò orúko àti òrò afarajórúko </string>
+
+    <string name="exercise_9_instruction">(Use “Òun and Àwa to make a sentence)</string>
+
+
+    <string name="eko_kewa"> Ẹ̀kọ́ kẹwàá </string>
+
+    <string name="lesson_ten">   (Lesson 10) </string>
+
+
+    <string name="atumo">Atúnmọ̀ </string>
+
+    <string name="atumo_oro">Atúnmọ̀ Ọ̀rọ̀</string>
+
+    <string name="dictionary"> (Dictionary)</string>
+
+    <string name="itumo_oro">Ìtumọ̀ Ọ̀rọ̀ </string>
+
+    <string name="oro_ati_itumo"> Ọ̀rọ̀ àti Ìtumọ̀  </string>
+
+    <string name="words_and_meanings">Words and Meaning</string>
+
+
+    <string name="ile">Ilé </string>
+
+    <string name="house">House</string>
+
+    <string name="ati">Àti</string>
+
+    <string name="and">And</string>
+
+    <string name="ojuse">Ojúṣe</string>
+
+    <string name="duty">Duty</string>
+
+    <string name="ilekun">Ìlẹ̀kùn</string>
+
+    <string name="door">Door</string>
+
+    <string name="aso">Aṣọ</string>
+
+    <string name="cloths">Cloths</string>
+
+    <string name="ise">Iṣẹ̣́</string>
+
+    <string name="work">Work</string>
+
+    <string name="ilee">Ilẹ̀</string>
+
+    <string name="land">Land</string>
+
+    <string name="egbe">Ẹgbẹ́</string>
+
+    <string name="group">Group/Association/Mate</string>
+
+    <string name="ojo"> Òjò</string>
+
+    <string name="rain">Rain</string>
+
+    <string name="oorun"> Òòrun</string>
+
+    <string name="sun">Sun</string>
+
+    <string name="osupa">Òsùpá̀</string>
+
+    <string name="moon">Moon</string>
+
+    <string name="irawo">Ìràwọ̀</string>
+
+    <string name="star">Star</string>
+
+    <string name="ofurufu">Òfurufú</string>
+
+    <string name="sky">Skỳ</string>
+
+    <string name="aye">Ayé</string>
+
+    <string name="earth">Earth</string>
+
+    <string name="omi">Omi</string>
+
+    <string name="water">Water</string>
+
+    <string name="aga">Àga</string>
+
+    <string name="chair">Chair</string>
+
+    <string name="agbalagba">Àgbàlagbà</string>
+
+    <string name="adult">Adult</string>
+
+    <string name="igbimo">Ìgbìmọ̀</string>
+
+    <string name="committee">Committee</string>
+
+    <string name="alaga">Alága</string>
+
+    <string name="chairperson">Chairpersoǹ</string>
+
+    <string name="ololufe">Olólùfẹ</string>
+
+    <string name="lover">Lovers</string>
+
+    <string name="iya">Ìyá</string>
+
+    <string name="mother">Mother</string>
+
+    <string name="baba">Bàbá</string>
+
+    <string name="father">Father</string>
+
+    <string name="aburo">Àbúrò</string>
+
+    <string name="younger_siblings">Junior(siblings)</string>
+
+    <string name="egbon">Ẹ̀gbọ́ń</string>
+
+    <string name="elder_siblings">Elder(siblings)</string>
+
+    <string name="ijinle">Ìjìnlẹ̀</string>
+
+    <string name="mystery">Mystery</string>
+
+    <string name="oko_oju_omi">Ọkọ̀ ojú omi</string>
+
+    <string name="ship">Ship/boat</string>
+
+    <string name="oko_oju_irin">Ọkọ̀ ojú irin</string>
+
+    <string name="train">Train</string>
+
+    <string name="akoonu">Àkóónú</string>
+
+    <string name="content">Content</string>
+
+    <string name="asamo"> Àṣamọ̀</string>
+
+    <string name="abst">Abstract</string>
+
+    <string name="apejo">Àpèjọ</string>
+
+    <string name="feast">Feast</string>
+
+    <string name="ayeye">Ayẹyẹ</string>
+
+    <string name="ceremony">Ceremony</string>
+
+    <string name="odun">Ọdún</string>
+
+    <string name="festival">Festival</string>
+
+    <string name="ilu">Ìlú</string>
+
+    <string name="town">Town</string>
+
+    <string name="iluu"> Ìlù</string>
+
+    <string name="drum">Drum</string>
+
+    <string name="oluko"> Olùkọ́</string>
+
+    <string name="teacher">Teacher</string>
+
+    <string name="akekoo">Akẹ́kọ̀ọ́́</string>
+
+    <string name="student">Student</string>
+
+    <string name="oga">Ọ̀gá ilẹ́-iṣẹ́</string>
+
+    <string name="boss">Boss</string>
+
+    <string name="osise"> Òṣìṣẹ́</string>
+
+    <string name="staff">Staff</string>
+
+    <string name="oluso_aguntan">Olùsọ́ Àgùntàń</string>
+
+    <string name="shepard">Shepard</string>
+
+    <string name="aguntan"> Àgùntàn</string>
+
+    <string name="sheep">Sheep</string>
+
+    <string name="ewure">Ewúrẹ́</string>
+
+    <string name="goat">Goat</string>
+
+    <string name="ori"> Orí</string>
+
+    <string name="head">Head</string>
+
+    <string name="ese">Ẹṣẹ̀</string>
+
+    <string name="leg"> Leg</string>
+
+    <string name="oju">Ojú</string>
+
+    <string name="eyes">Eyes</string>
+
+    <string name="imero"> Ìmẹ̀rọ</string>
+
+    <string name="technology">Technology</string>
+
+    <string name="sayensi">Sáyẹ́nsì̀</string>
+
+    <string name="science">Science</string>
+
+    <string name="itakun_agbaye">Ìtàkùn-àgbáyé</string>
+
+    <string name="www">World wide web</string>
+
+    <string name="ero_ibanisoro"> Ẹ̀rọ-ìbánisọ̀rọ̣̀</string>
+
+    <string name="phone">Phone</string>
+
+    <string name="ipa">Ipá̀</string>
+
+    <string name="force">Force</string>
+
+    <string name="ipaa">Ipa</string>
+
+    <string name="impact">Impact</string>
+
+    <string name="ipaaa"> Ìpá</string>
+
+    <string name="kick">Kick</string>
+
+    <string name="gbolohun_kukuru"> Gbólóhùn kúkurú àti ògbfọ̀ wọn </string>
+
+    <string name="small_sentence"> Simple Sentences and Meaning </string>
+
+    <string name="gbolohun_kukuru_1">Ebi ń pa mi</string>
+
+    <string name="small_sentence_1">I’m hungry</string>
+
+    <string name="gbolohun_kukuru_2"> Ilẹ̀ ti sú</string>
+
+    <string name="small_sentence_2">Its night</string>
+
+    <string name="gbolohun_kukuru_3">Ọjọ́ ti lọ</string>
+
+    <string name="small_sentence_3">It’s late</string>
+
+
+    <string name="gbolohun_kukuru_4">Mo fẹ́ mu omị</string>
+
+    <string name="small_sentence_4">I want to drink water</string>
+
+
+    <string name="gbolohun_kukuru_5">Mo ti kẹ́kọ̀ọ́ gboyè</string>
+
+    <string name="small_sentence_5">I’ve graduated</string>
+
+
+    <string name="gbolohun_kukuru_6">Mò ń wá iṣẹ́</string>
+
+    <string name="small_sentence_6">I need job</string>
+
+    <string name="gbolohun_kukuru_7">Ẹ wá wo nǹkan</string>
+
+    <string name="small_sentence_7">Come and see something</string>
+
+    <string name="gbolohun_kukuru_8">Ilé wa rẹwà</string>
+
+    <string name="small_sentence_8">Our house is beautiful</string>
+
+
+    <string name="gbolohun_kukuru_9">Ikú pa olọ́de</string>
+
+    <string name="small_sentence_9">The hunter is dead</string>
+
+
+    <string name="gbolohun_kukuru_10">Ìjọba ti kìlò</string>
+
+    <string name="small_sentence_10">The government has warned</string>
+
+    <string name="gbolohun_kukuru_11"> Mo ní ìfẹ́ rẹ</string>
+
+    <string name="small_sentence_11">I love you</string>
+
+    <string name="gbolohun_kukuru_12">Ọmọbìnrin náà rẹwà púpọ̀ </string>
+
+    <string name="small_sentence_12">The lady is very beautiful</string>
+
+    <string name="gbolohun_kukuru_13">Má ṣì mí gbọ́ </string>
+
+    <string name="small_sentence_13">Don’t misquote me</string>
+
+    <string name="gbolohun_kukuru_14">Àwọn olùkọ́ wa ń gbìyànjú </string>
+
+    <string name="small_sentence_14">Our tutors are trying</string>
+
+    <string name="gbolohun_kukuru_15">Èló ni ẹ̀ ń tàá </string>
+
+    <string name="small_sentence_15">How much are you selling it</string>
+
+    <string name="gbolohun_kukuru_16">Mo fẹ́ jẹun</string>
+
+    <string name="small_sentence_16">I want to eat</string>
+
+    <string name="gbolohun_kukuru_17"> Mo fẹ́ sùn</string>
+
+    <string name="small_sentence_17">I want to sleep</string>
+
+    <string name="gbolohun_kukuru_18">Ẹ sọ̀kalẹ̀ wá</string>
+
+    <string name="small_sentence_18">Come down</string>
+
+    <string name="gbolohun_kukuru_19">Ẹ sún mọ́ibí</string>
+
+    <string name="small_sentence_19">Come closer</string>
+
+    <string name="gbolohun_kukuru_20">E dìde sókè́</string>
+
+    <string name="small_sentence_20">Stand up</string>
+
+    <string name="gbolohun_kukuru_21">Wá jẹun</string>
+
+    <string name="small_sentence_21">Come and eat</string>
+
+    <string name="gbolohun_kukuru_22">E dìde sókè́</string>
+
+    <string name="small_sentence_22">Stand up</string>
+
+
+    <string name="gbolohun_kukuru_23">Mo nífẹ̀ẹ́ orílẹ̀-èdè mi</string>
+
+    <string name="small_sentence_23">I love my country</string>
+
+    <string name="gbolohun_kukuru_24">Ó tó gẹ́</string>
+
+    <string name="small_sentence_24"> 	It’s enough</string>
+
+
+    <string name="alaye_isefikora_10">Gbìyànjú láti máa lo àwọn gbólóhùn yìí nínú ìṣesí rẹ ojoojúmọ́ </string>
+
+    <string name="exercise_10_instruction">(Try using this sentences in your daily activities)</string>
+
+
+</resources>

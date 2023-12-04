@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="purple_500">#1976D2</color>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="purple_700">#0D47A1</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFF7DA</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <color name="white_background">#F5F5F5</color>
+
+    <color name="background_color">#F5DEB3</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_colors">#8800A0</color>
+
+    <color name="darker_purple_color">#6B006D</color>
+
+    <color name="lighter_purple_color">#BB00BD</color>
+
+
+    <color name="very_light_purple_color">#D100E6</color>
+
+    <color name="blue_color">#2196F3</color>
+
+    <color name="light_blue_1_color">#E1F5FE</color>
+
+    <color name="light_blue_2_color">#81D4FA</color>
+
+    <color name="light_blue_3_color">#29B6F6</color>
+
+    <color name="light_blue_4_color">#039BE5</color>
+
+    <color name="light_blue_5_color">#0277BD</color>
+
+    <color name="light_blue_6_color">#01579B</color>
+
+    <color name="dark_blue_1_color">#0D47A1</color>
+
+    <color name="dark_blue_2_color">#00008B</color>
+
+    <color name="pale_pink">#FFC0CB</color>
+
+    <color name="pale_green">#98FB98</color>
+
+    <color name="dark_blue_3_color">#000080</color>
+
+    <color name="dark_blue_4_color">#191970</color>
+
+    <color name="dark_blue_5_color">#4169E1</color>
+
+    <color name="dark_blue_6_color">#4B0082</color>
+
+    <color name="dark_blue_7_color">#6495ED</color>
+
+    <color name="dark_blue_8_color">#4682B4</color>
+
+    <color name="blue_background_1_color">#607D8B</color>
+
+    <color name="blue_background_2_color">#808080</color>
+
+    <color name="blue_background_3_color">#D3D3D3</color>
+
+    <color name="blue_background_4_color">#FFFFF0</color>
+
+    <color name="blue_background_5_color">#F5F5DC</color>
+
+    <color name="blue_background_6_color">#FFFF99</color>
+
+    <color name="blue_background_7_color">#AFEEEE</color>
+
+    <color name="blue_background_8_color">#FFC0CB</color>
+
+
+</resources>
+
